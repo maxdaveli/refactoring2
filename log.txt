@@ -1,4 +1,5 @@
-a9e96ad (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+e73c4cd (HEAD -> main, origin/main, origin/HEAD) Task 2.3
+a9e96ad Task 2.2
 4fca2c9 updated log.txt
 ed0c721 Task 2.1
 da5e218 Task 1.2
